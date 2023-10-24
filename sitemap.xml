@@ -6,48 +6,79 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/</loc>
+  <loc>https://www.dasneuner.com.br/</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/index.html</loc>
+  <loc>https://www.dasneuner.com.br/index.html</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/#inicio</loc>
+  <loc>https://www.dasneuner.com.br/#inicio</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/#sobre</loc>
+  <loc>https://www.dasneuner.com.br/#sobre</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/#servicos</loc>
+  <loc>https://www.dasneuner.com.br/#servicos</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/#regularizacao</loc>
+  <loc>https://www.dasneuner.com.br/#regularizacao</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/#portfolio</loc>
+  <loc>https://www.dasneuner.com.br/#portfolio</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/#contato</loc>
+  <loc>https://www.dasneuner.com.br/#contato</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.regularizacaodeobrascuritiba.com/#colaboradores</loc>
+  <loc>https://www.dasneuner.com.br/#colaboradores</loc>
   <lastmod>2020-04-17T20:04:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
+<url>
+  <loc>https://www.dasneuner.com.br/sobre.html</loc>
+  <lastmod>2020-04-17T20:04:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.dasneuner.com.br/servicos.html</loc>
+  <lastmod>2020-04-17T20:04:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.dasneuner.com.br/regularizacao.html</loc>
+  <lastmod>2020-04-17T20:04:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.dasneuner.com.br/portfolio.html</loc>
+  <lastmod>2020-04-17T20:04:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.dasneuner.com.br/contato.html</loc>
+  <lastmod>2020-04-17T20:04:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.dasneuner.com.br/colaboradores.html</loc>
+  <lastmod>2020-04-17T20:04:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
 </urlset>
